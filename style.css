@@ -1,0 +1,19 @@
+/*fondo del lobby*/
+body{
+    margin: 0%;
+    height: 200vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Times New Roman',Times, serif
+}
+
+.carta{
+    background: burlywood;
+    width: 400;
+    padding: 30px;
+    border-radius: 15px;
+    box-shadow: 0px 15px 40px rgba(red, green, blue, alpha);
+    text-align: center;
+    transition: transform 0.3s ease;
+}
